@@ -1,0 +1,23 @@
+{
+  "name": "menyu-react-app",
+  "version": "1.0.0",
+  "description": "User facing application for menyu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thezone0405/menyu-react.git"
+  },
+  "keywords": [
+    "menyu",
+    "react"
+  ],
+  "author": "Edizon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thezone0405/menyu-react/issues"
+  },
+  "homepage": "https://github.com/thezone0405/menyu-react#readme"
+}
